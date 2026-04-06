@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\bin\Debug\net10.0\5 лаб. 2 задача.exe
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\bin\Debug\net10.0\5 лаб. 2 задача.deps.json
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\bin\Debug\net10.0\5 лаб. 2 задача.runtimeconfig.json
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\bin\Debug\net10.0\5 лаб. 2 задача.dll
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\bin\Debug\net10.0\5 лаб. 2 задача.pdb
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.AssemblyInfo.cs
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.dll
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\refint\5 лаб. 2 задача.dll
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.pdb
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\5 лаб. 2 задача.genruntimeconfig.cache
+C:\Users\Никита\source\repos\5 лаб. 2 задача\5 лаб. 2 задача\obj\Debug\net10.0\ref\5 лаб. 2 задача.dll
